@@ -1,0 +1,5 @@
+
+" For indent size
+au FileType c set softtabstop=4 shiftwidth=4 tabstop=4 noexpandtab
+au FileType h set softtabstop=4 shiftwidth=4 tabstop=4 noexpandtab
+

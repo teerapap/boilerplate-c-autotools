@@ -1,0 +1,6 @@
+SUBDIRS=deps src doc test
+
+EXTRA_DIST = LICENSE README.md
+
+ACLOCAL_AMFLAGS = -I m4
+
